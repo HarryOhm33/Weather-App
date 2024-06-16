@@ -27,8 +27,6 @@ git clone https://github.com/HarryOhm33/Weather-App.git
 cd Weather-App
 ```
 
-````
-
 ### 2. Install Dependencies
 
 Using npm:
@@ -105,4 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 By following these steps, your Vite-based React project should be set up correctly with environment variables. When you deploy your project, update the "Live Demo" section with the actual URL.
 ```
-````
+
+```
+
+```
