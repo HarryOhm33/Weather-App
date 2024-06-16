@@ -99,11 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Vite](https://vitejs.dev/)
 
-```
-
 By following these steps, your Vite-based React project should be set up correctly with environment variables. When you deploy your project, update the "Live Demo" section with the actual URL.
-```
-
-```
-
-```
