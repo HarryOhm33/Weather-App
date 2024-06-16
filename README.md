@@ -88,10 +88,6 @@ weather-app/
 2. Click the "Search" button.
 3. The weather information for the specified city will be displayed.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
