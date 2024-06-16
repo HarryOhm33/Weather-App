@@ -1,27 +1,24 @@
-Great! Here's an updated `README.md` file for your Vite-based Weather App project, including the GitHub repository link and a placeholder for the live demo:
-
-````markdown
-# Weather App
+### Weather App
 
 A simple weather application built with React and Material-UI that fetches weather data using the OpenWeatherMap API.
 
-## Features
+### Features
 
 - Search for weather information by city name.
 - Display current temperature, minimum and maximum temperatures, humidity, and weather description.
 
-## Live Demo
+### Live Demo
 
 Check out the live demo of the application [here](#).
 
 Replace `#` with the actual URL of your deployed application.
 
-## Prerequisites
+### Prerequisites
 
 - Node.js (>= 14.x)
 - npm (>= 6.x) or yarn (>= 1.x)
 
-## Getting Started
+### Getting Started
 
 ### 1. Clone the Repository
 
@@ -29,6 +26,7 @@ Replace `#` with the actual URL of your deployed application.
 git clone https://github.com/HarryOhm33/Weather-App.git
 cd Weather-App
 ```
+
 ````
 
 ### 2. Install Dependencies
@@ -107,3 +105,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 By following these steps, your Vite-based React project should be set up correctly with environment variables. When you deploy your project, update the "Live Demo" section with the actual URL.
 ```
+````
