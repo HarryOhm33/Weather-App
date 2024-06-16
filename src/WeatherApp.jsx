@@ -23,7 +23,7 @@ export default function WeatherApp() {
           Click Here!
         </a>{" "}
         &nbsp;|&nbsp; LinkedIn:-{" "}
-        <a href="https://weatherappbyh.netlify.app/" target="_blank">
+        <a href="" target="_blank">
           Click Here!
         </a>
       </div>

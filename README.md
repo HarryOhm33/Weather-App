@@ -9,7 +9,7 @@ A simple weather application built with React and Material-UI that fetches weath
 
 ## Live Demo
 
-Check out the live demo of the application [here](#).
+Check out the live demo of the application [here](https://weatherappbyh.netlify.app/).
 
 Replace `#` with the actual URL of your deployed application.
 
