@@ -23,7 +23,10 @@ export default function WeatherApp() {
           Click Here!
         </a>{" "}
         &nbsp;|&nbsp; LinkedIn:-{" "}
-        <a href="" target="_blank">
+        <a
+          href="https://www.linkedin.com/posts/harryohm33_react-webdevelopment-deltabatch-activity-7208193498255089664-7MoB?utm_source=share&utm_medium=member_desktop"
+          target="_blank"
+        >
           Click Here!
         </a>
       </div>
