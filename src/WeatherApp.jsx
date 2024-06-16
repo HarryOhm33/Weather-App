@@ -19,8 +19,13 @@ export default function WeatherApp() {
       {weatherInfo && <InfoBox info={weatherInfo} />}
       <div className="footer">
         Git Repo:-{" "}
-        <a href="https://github.com/HarryOhm33/Weather-App.git">Click Here!</a>{" "}
-        &nbsp;|&nbsp; LinkedIn:- <a href="">Click Here!</a>
+        <a href="https://github.com/HarryOhm33/Weather-App.git" target="_blank">
+          Click Here!
+        </a>{" "}
+        &nbsp;|&nbsp; LinkedIn:-{" "}
+        <a href="" target="_blank">
+          Click Here!
+        </a>
       </div>
     </div>
   );
