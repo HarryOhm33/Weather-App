@@ -1,24 +1,24 @@
-### Weather App
+## Weather App
 
 A simple weather application built with React and Material-UI that fetches weather data using the OpenWeatherMap API.
 
-### Features
+## Features
 
 - Search for weather information by city name.
 - Display current temperature, minimum and maximum temperatures, humidity, and weather description.
 
-### Live Demo
+## Live Demo
 
 Check out the live demo of the application [here](#).
 
 Replace `#` with the actual URL of your deployed application.
 
-### Prerequisites
+## Prerequisites
 
 - Node.js (>= 14.x)
 - npm (>= 6.x) or yarn (>= 1.x)
 
-### Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
